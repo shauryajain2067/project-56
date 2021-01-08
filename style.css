@@ -1,0 +1,15 @@
+img{
+    width:150px;
+    height:150px;
+    border-style:solid;
+padding:15px;
+}
+body{
+    background-color:beige;
+    text-align:center;
+}
+p{
+    font-weight:bold;
+    font-style:italic;
+    font-size:30px;
+}
